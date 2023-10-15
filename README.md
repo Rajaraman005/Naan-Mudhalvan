@@ -1,5 +1,6 @@
 # Naan-Mudhalvan
-This the naan mudhalvan project that i created by my own knowledge which i gain by IBM
+This the naan mudhalvan project that i created by my own knowledge which i gain From "IBM"
+
 The <!DOCTYPE html> declaration specifies the document type and version.
 
 Inside the <head> section:
